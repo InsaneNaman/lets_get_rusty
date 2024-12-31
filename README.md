@@ -4,7 +4,7 @@ This repository documents my journey learning the Rust programming language. I'm
 
 ## Development Environment
 
-- **IDE**: [Cursor](https://cursor.sh/) - An AI-first code editor
+- **IDE**: [Windsurf](https://https://codeium.com/windsurf/) - An AI-first code editor
 - **Version Control**: Git with [Conventional Commits](https://www.conventionalcommits.org/)
 
 ## Conventional Commits
